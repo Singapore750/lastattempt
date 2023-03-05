@@ -1,4 +1,5 @@
 import * as THREE from 'three';
+import { OrbitControls } from 'three'
 //const controls = new OrbitControls( camera, renderer.domElement);
 
 const scene = new THREE.Scene();
