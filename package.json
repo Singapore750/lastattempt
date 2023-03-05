@@ -1,0 +1,26 @@
+{
+  "name": "lastattempt",
+  "version": "1.0.0",
+  "description": "im surpassing my patience uwu",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Singapore750/lastattempt.git"
+  },
+  "keywords": [
+    "100"
+  ],
+  "author": "Singapore750",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Singapore750/lastattempt/issues"
+  },
+  "homepage": "https://github.com/Singapore750/lastattempt#readme",
+  "dependencies": {
+    "cannon": "^0.6.2",
+    "three": "^0.150.1"
+  }
+}
